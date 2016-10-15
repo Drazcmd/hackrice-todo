@@ -1,2 +1,2 @@
-# starter
-COMP431/531 Starter
+# ToDo App
+Hack Rice ToDo App
