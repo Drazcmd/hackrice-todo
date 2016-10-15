@@ -7,6 +7,6 @@ cd hackrice-todo
 npm install
 npm start
 ```
-Navigate to http://localhost:8080/webpack-dev-server/index.html
+Navigate to [http://localhost:8080/webpack-dev-server/index.html](http://localhost:8080/webpack-dev-server/index.html)
 
 
