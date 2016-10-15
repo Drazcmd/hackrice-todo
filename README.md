@@ -7,6 +7,10 @@ cd hackrice-todo
 npm install
 npm start
 ```
-Navigate to [http://localhost:8080/webpack-dev-server/index.html](http://localhost:8080/webpack-dev-server/index.html)
+Navigate to [http://localhost:8080](http://localhost:8080)
 
+Deploy to surge for free
+```
+npm run deploy
+```
 
